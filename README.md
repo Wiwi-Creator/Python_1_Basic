@@ -1,36 +1,39 @@
-## Python 基礎語法筆記 
+## Python 初學者系列 
 
-紀錄Python基礎語法及例題詳解介紹
+主旨:紀錄Python基礎語法及例題詳解介紹 
+
 主要使用開發工具:spyder 、 Visual Studio
 
-### Markdown
+### 內容大綱
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+初階語法(不包含模組應用)
 
 ```markdown
-內容大綱
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# 背景 
+# 主流環境介紹與設定
+# 變數與基本運算
+# 資料型態 
+# IF條件判斷式
+# 迴圈(For-Loop)
+# 串列(List)
+# 函式(Function)
+# 遞迴
+# 字典(Dictionary)
+# 讀寫檔案
+# 錯誤處理
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 個人經歷
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wiwi-Creator/Python_test.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+25 Years Old
+畢業於私立東吳大學資訊管理學系
 
-### Support or Contact
+2019/1/1   台北市補教業-程式助教(1Y)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2020/10/26 台北市信義區金融業-數據分析資訊部(0.5Y)
