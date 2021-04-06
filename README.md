@@ -1,8 +1,6 @@
-## 背景
+## Python 大數據分析 
 
-You can use the [editor on GitHub](https://github.com/Wiwi-Creator/Python_test.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主要使用開發工具:spyder
 
 ### Markdown
 
