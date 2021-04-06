@@ -1,13 +1,14 @@
-## Python 大數據分析 
+## Python 基礎語法筆記 
 
-主要使用開發工具:spyder
+紀錄Python基礎語法及例題詳解介紹
+主要使用開發工具:spyder 、 Visual Studio
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+內容大綱
 
 # Header 1
 ## Header 2
