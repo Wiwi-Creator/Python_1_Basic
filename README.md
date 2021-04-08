@@ -29,11 +29,4 @@
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### 個人經歷
 
-25 Years Old
-畢業於私立東吳大學資訊管理學系
-
-2019/1/1   台北市補教業-程式助教(1Y)
-
-2020/10/26 台北市信義區金融業-數據分析資訊部(0.5Y)
