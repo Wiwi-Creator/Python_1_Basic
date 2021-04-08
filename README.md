@@ -1,6 +1,6 @@
 ## Python 初學者系列 
 
-主旨:紀錄Python基礎語法及例題詳解介紹 
+主旨:紀錄Python基礎語法及相關筆記
 
 主要使用開發工具:spyder 、 Visual Studio
 
