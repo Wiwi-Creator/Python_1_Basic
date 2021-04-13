@@ -1,6 +1,7 @@
-## Python 基礎筆記 
+## Python 筆記
 
-主旨:紀錄Python基礎語法及相關筆記
+Python其背景與優勢
+Python基礎語法及相關筆記
 
 
 ### 內容大綱
