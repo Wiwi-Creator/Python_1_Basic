@@ -53,21 +53,21 @@ D.大數據、機器學習、雲端運算 :
  
  [02.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
  
- 03.IF條件判斷式
+ [03.IF條件判斷式](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/IF%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7.ipynb)
  
- 04.迴圈(For-Loop)
+ [04.迴圈(For-Loop)]()
  
- 05.串列(List)
+ [05.串列(List)]()
  
- 06.函式(Function)
+ [06.函式(Function)]()
  
- 07.遞迴
+ [07.遞迴]()
  
- 08.字典(Dictionary)
+ [08.字典(Dictionary)]()
  
- 09.讀寫檔案
+ [09.讀寫檔案]()
  
- 10.錯誤處理
+ [10.錯誤處理]()
 
 
 
