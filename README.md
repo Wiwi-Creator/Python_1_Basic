@@ -51,7 +51,7 @@ D.大數據、機器學習、雲端運算 :
 # 主流環境介紹與設定
  [01.變數與基本運算](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%AE%8A%E6%95%B8%E8%88%87%E5%9F%BA%E6%9C%AC%E9%81%8B%E7%AE%97.ipynb)
  
- [02.資料型態]() 
+ [02.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
  
  03.IF條件判斷式
  
