@@ -57,7 +57,7 @@ D.大數據、機器學習、雲端運算 :
  
  [04.迴圈(For-Loop)](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E4%B8%B2%E5%88%97%E8%88%87%E8%BF%B4%E5%9C%88.ipynb)
  
- [05.函式(Function)]()
+ [05.函式(Function)](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E5%87%BD%E5%BC%8FFunction.ipynb)
  
  [06.遞迴]()
  
