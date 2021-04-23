@@ -45,23 +45,32 @@ D.大數據、機器學習、雲端運算 :
 
 #  Content
 ***
-```markdown
+
 
 
 # 主流環境介紹與設定
-# 01.變數與基本運算
-# 02.資料型態 
-# 03.IF條件判斷式
-# 04.迴圈(For-Loop)
-# 05.串列(List)
-# 06.函式(Function)
-# 07.遞迴
-# 08.字典(Dictionary)
-# 09.讀寫檔案
-# 10.錯誤處理
+ [01.變數與基本運算]()
+ 
+ 02.資料型態 
+ 
+ 03.IF條件判斷式
+ 
+ 04.迴圈(For-Loop)
+ 
+ 05.串列(List)
+ 
+ 06.函式(Function)
+ 
+ 07.遞迴
+ 
+ 08.字典(Dictionary)
+ 
+ 09.讀寫檔案
+ 
+ 10.錯誤處理
 
 
-```
+
 
 
 Download from the official Python web: https://python.org
