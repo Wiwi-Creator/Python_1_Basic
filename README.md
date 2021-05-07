@@ -56,15 +56,15 @@ D.大數據、機器學習、雲端運算 :
  
 ## [02.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
  
-[02-1.數字(Number)]()
+[1.數字(Number)]()
 
-[02-2.字串(String)]() 
+[2.字串(String)]() 
 
-[02-3.串列(List)]()
+[3.串列(List)]()
 
-[02-4.集合(Set)]()
+[4.集合(Set)]()
 
-[02-5.字典(Dictionary)]()
+[5.字典(Dictionary)]()
     
 ## [03.IF條件判斷式](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/IF%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7.ipynb)
  
@@ -76,10 +76,6 @@ D.大數據、機器學習、雲端運算 :
  
 ## [07.模組(Module)]()
   
-[07-1.自建模組]()
- 
-[07-2.常用模組]()
- 
 ## [08.讀寫檔案]()
  
 ## [09.錯誤處理]()
