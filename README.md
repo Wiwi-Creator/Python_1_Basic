@@ -51,33 +51,38 @@ D.大數據、機器學習、雲端運算 :
 
 
 # 主流環境介紹與設定
- [01.變數與基本運算](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%AE%8A%E6%95%B8%E8%88%87%E5%9F%BA%E6%9C%AC%E9%81%8B%E7%AE%97.ipynb)
- 
- [02.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
- 
----- [02-1.數字(Number)]()
 
----- [02-2.字串(String)]() 
+## [01.變數與基本運算](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%AE%8A%E6%95%B8%E8%88%87%E5%9F%BA%E6%9C%AC%E9%81%8B%E7%AE%97.ipynb)
  
----- [02-3.串列(List)]()
-    
----- [02-4.集合(Set)]()
+## [02.資料型態](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E8%B3%87%E6%96%99%E5%9E%8B%E8%88%87%E8%BC%B8%E5%85%A5.ipynb) 
+ 
+[02-1.數字(Number)]()
 
----- [02-5.字典(Dictionary)]()
+[02-2.字串(String)]() 
+
+[02-3.串列(List)]()
+
+[02-4.集合(Set)]()
+
+[02-5.字典(Dictionary)]()
     
- [03.IF條件判斷式](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/IF%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7.ipynb)
+## [03.IF條件判斷式](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/IF%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7.ipynb)
  
- [04.迴圈(For-Loop)](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E4%B8%B2%E5%88%97%E8%88%87%E8%BF%B4%E5%9C%88.ipynb)
+## [04.迴圈(For-Loop)](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E4%B8%B2%E5%88%97%E8%88%87%E8%BF%B4%E5%9C%88.ipynb)
  
- [05.函式(Function)](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E5%87%BD%E5%BC%8FFunction.ipynb)
+## [05.函式(Function)](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/%E5%87%BD%E5%BC%8FFunction.ipynb)
  
- [06.遞迴]()
+## [06.遞迴]()
  
- [07.模組(Module)]()
+## [07.模組(Module)]()
+  
+[07-1.自建模組]()
  
- [08.讀寫檔案]()
+[07-2.常用模組]()
  
- [09.錯誤處理]()
+## [08.讀寫檔案]()
+ 
+## [09.錯誤處理]()
 
 
 
