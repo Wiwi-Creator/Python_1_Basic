@@ -58,7 +58,7 @@ D.大數據、機器學習、雲端運算 :
  
 [1.數字(Number)](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E6%95%B8%E5%AD%97%E5%9E%8B%E6%85%8B.ipynb)
 
-[2.字串(String)]() 
+[2.字串(String)](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E5%AD%97%E4%B8%B2%E5%9E%8B%E6%85%8B.ipynb) 
 
 [3.串列(List)]()
 
