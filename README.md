@@ -62,7 +62,7 @@ D.大數據、機器學習、雲端運算 :
 
 [3.串列(List)](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E4%B8%B2%E5%88%97(list).ipynb)
 
-[4.集合(Set)]()
+[4.集合(Set)](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E9%9B%86%E5%90%88.ipynb)
 
 [5.字典(Dictionary)]()
     
