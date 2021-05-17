@@ -64,7 +64,7 @@ D.大數據、機器學習、雲端運算 :
 
 [4.集合(Set)](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E9%9B%86%E5%90%88.ipynb)
 
-[5.字典(Dictionary)]()
+[5.字典(Dictionary)](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E5%AD%97%E5%85%B8.ipynb)
     
 ## [03.IF條件判斷式](https://github.com/Wiwi-Creator/Python_1_Basic/blob/main/IF%E6%A2%9D%E4%BB%B6%E5%88%A4%E6%96%B7.ipynb)
  
