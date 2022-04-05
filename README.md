@@ -76,7 +76,7 @@ D.大數據、機器學習、雲端運算 :
  
 ## [07.模組(Module)]()
   
-## [08.讀寫檔案]()
+## [08.檔案操作](https://github.com/Wiwi-Creator/Python_Basic/blob/main/%E6%AA%94%E6%A1%88%E6%93%8D%E4%BD%9C.ipynb)
  
 ## [09.錯誤處理]()
 
